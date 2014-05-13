@@ -7,9 +7,9 @@ package org.mkdev.ai.langton3d.core;
  * @since: 2014-05-11
  */
 public class MapCube {
-    protected static final int W = 100;
-    protected static final int H = 100;
-    protected static final int D = 100;
+    protected static final int W = 50;
+    protected static final int H = 50;
+    protected static final int D = 50;
 
     public static float getCubeSize() {
         return CUBE_SIZE;
