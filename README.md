@@ -2,9 +2,11 @@ java-ai-langton3d-opengl
 ========================
 
 ##Description
-Langton's Ant 3d implementation in Java and OpenGL (lwjgl stack).
+Langton's Ant Cellular Automata, 3d implementation in Java and OpenGL (lwjgl stack).
 
 If You need more information about Lanton's Ant - check here: [Wikipedia](http://en.wikipedia.org/wiki/Langton%27s_ant)
+
+![image](https://raw.githubusercontent.com/michalkolodziejski/java-ai-langton3d-opengl/master/images/screenshot_20140513_001.jpg)
 
 ##Compile
 You need JDK 1.6 and Maven to compile the project.
