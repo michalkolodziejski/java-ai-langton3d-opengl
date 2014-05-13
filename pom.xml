@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <finalName>${project.artifactId}-${project.version}.jar</finalName>
-        <main.class>main.App</main.class>
+        <main.class>org.mkdev.ai.langton3d.core.App</main.class>
         <natives>${basedir}/target/natives/</natives>
         <release.natives>natives/</release.natives>
     </properties>
