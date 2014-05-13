@@ -22,6 +22,18 @@ After successful `packaging` there is one interesting artifact, a file named `la
 2. `on windows` execute script named `run.bat`
 3. `on u*ix` in terminal - execute `chmod +x run.sh` which tells your system to mark file as executable, then execute `./run.sh`. ENJOY.
 
+## Moving camera
+You can move/rotate laboratory space (cube) by using following keymap:
+
+Key | Description
+-- | --
+W | rotate down
+S | rotate up
+A | rotate right
+D | rotate left
+Q | zoom in
+E | zoom out
+
 ## Settings (at compile time)
 ### Ant 'genetic code'
 Ant `program` is contained in the following array: `org.mkdev.ai.langton3d.core.App#CODE`.
@@ -34,6 +46,8 @@ RIGHT | tells ant to move right
 LEFT | tells ant to move left
 UP | tells ant to move up
 DOWN | tells ant to move down
+
+**Note** Using different program - You can make different interesting shapes and patterns that are formed by an Ant's trail.
 
 ### World size
 You can change dimension (measured in 'cubes' per coordination axis), changing values for these fields:
