@@ -1,6 +1,10 @@
 java-ai-langton3d-opengl
 ========================
 
+## Build Status
+
+[![Build Status](https://buildhive.cloudbees.com/job/michalkolodziejski/job/java-ai-langton3d-opengl/badge/icon)](https://buildhive.cloudbees.com/job/michalkolodziejski/job/java-ai-langton3d-opengl/)
+
 ##Description
 Langton's Ant Cellular Automata, 3d implementation in Java and OpenGL (lwjgl stack).
 
